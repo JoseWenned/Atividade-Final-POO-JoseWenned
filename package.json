@@ -1,0 +1,16 @@
+{
+  "name": "atividade-final-poo-josewenned",
+  "version": "1.0.0",
+  "description": "Repository Atividade Final POO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
